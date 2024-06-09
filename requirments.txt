@@ -1,0 +1,7 @@
+streamlit
+numpy
+pickle-mixin
+pandas
+pyttsx3
+plotly
+
